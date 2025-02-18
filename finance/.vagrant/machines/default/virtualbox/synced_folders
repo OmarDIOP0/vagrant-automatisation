@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/bmd tech/OneDrive/Bureau/Project/devOps/f/vagrant-vms/finance","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
